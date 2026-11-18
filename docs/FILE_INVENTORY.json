@@ -1,0 +1,270 @@
+{
+  "note": "Inventory excludes this inventory file.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 217,
+      "sha256": "82172e45253ee267bf039ef62e57b8b351de90b028aac1646d417428d5392384"
+    },
+    {
+      "path": ".github/workflows/android-build.yml",
+      "bytes": 1886,
+      "sha256": "adb6e6b6e95970d4285d5d33d0ddc58aca8ccf184bc65ae66b394bb53fe2e630"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 232,
+      "sha256": "b75838f722566be372cac980ba55d384774e15ade56240180b04f82b7afdad9a"
+    },
+    {
+      "path": "BUILD_APK.bat",
+      "bytes": 454,
+      "sha256": "8543e93ece1dc9aeb94fc8f64a13b79a4607e3c2686e598b6519d2aea231ce27"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8929,
+      "sha256": "5309a0881c7f202680dcb9d7d3bccc69c65ad72caf15219b2a602d0c757f6273"
+    },
+    {
+      "path": "START_HERE.txt",
+      "bytes": 779,
+      "sha256": "74640165a9ef9178611e795c4a948bc50324f0151b64dca9656c1da4b0d37507"
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "bytes": 804,
+      "sha256": "f3a93ae3b9201b913b2371c6efaa81ad897d447646363c96be79aa4ddd174254"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "bytes": 1566,
+      "sha256": "758fad8e589ddfbd90c01deaa6946dc53f0c1ce7669c2f65781f58251332fd19"
+    },
+    {
+      "path": "app/src/main/assets/questions.csv",
+      "bytes": 14540,
+      "sha256": "f7a35c87e90ff3183cd71fddf10f1b3012af9e7c1a399ba4210f0e8798a774fb"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/AdminQuestionsActivity.kt",
+      "bytes": 5909,
+      "sha256": "15db358519e9dfaffac09653d5fc3ad2558f815f1fa2695bb2c890eb91c2f854"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/BaseActivity.kt",
+      "bytes": 4072,
+      "sha256": "5d344e9421c337686c004cf948a93fd860c187a9315f53b89a058c617d5fddf8"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/CsvImporter.kt",
+      "bytes": 4090,
+      "sha256": "bf81be8a65c26984266585eb8aa36e6b7171dacab42ca953d8d18661288eadc6"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/DashboardActivity.kt",
+      "bytes": 4890,
+      "sha256": "29e1acee62fed974d88a4db29dafab166ff7a5431954fcf9b021e308d8816657"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/DatabaseHelper.kt",
+      "bytes": 14871,
+      "sha256": "09b6a6f36521163484d5ac54f1033234dd3273b91f6f0a1326afaae6332fe0a3"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/LoginActivity.kt",
+      "bytes": 6134,
+      "sha256": "91f5e54ac916426a8a4f3eb7762d06fdf29a8b1eb03d2bb8bfae2b949db2f4f8"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/Models.kt",
+      "bytes": 1018,
+      "sha256": "d38601ea5aa6190367be450c2d108630c33181f0f586abf8adf35b23cc85bb76"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/PasswordHasher.kt",
+      "bytes": 1902,
+      "sha256": "f15e87e63535e8edf7a83eec5656872ba1f3bb2644315faad4b35d1f54e5d6b8"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/ProfileActivity.kt",
+      "bytes": 4794,
+      "sha256": "0a6b94329290c0e5db8438f4ec59e5cd3f32b1ee07e61c21c8bfed87614bf126"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/QuestionEditorActivity.kt",
+      "bytes": 4131,
+      "sha256": "cf49a6e5b83c2c8103024c30fcf7d9e75bfedabd971d37c7ea2e1f97856bbeef"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/QuizActivity.kt",
+      "bytes": 8911,
+      "sha256": "e9fc2b269c7596dc2ab5c1fe4ce2ec2e1c0c2e91bb732f313f9476be99bc4b72"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/QuizSetupActivity.kt",
+      "bytes": 2221,
+      "sha256": "2488320a51c47f3f3acf64bf2aabf561e6534dc0854e169c3d8186b75c5cfcfd"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/ResultActivity.kt",
+      "bytes": 1795,
+      "sha256": "83f5a76354c76151bbc0554e4b7bb1d5510d4107d775be4f1d35193a746e4ac4"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/Session.kt",
+      "bytes": 792,
+      "sha256": "47573a62d70af54c121da6091af33a51585ef68fd440dd9c92d2c1e8af40ec01"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/SignupActivity.kt",
+      "bytes": 2014,
+      "sha256": "31d289fe5c28f2760e046c6bf20a4b8e0356f875a4d2a8a8334b6ac5851b1798"
+    },
+    {
+      "path": "app/src/main/java/com/example/simplequiz/Ui.kt",
+      "bytes": 2774,
+      "sha256": "883ea9a3a093ab22ad08098ef8550d6eb8e8e3e2a47df4b55572e0e61f2c3c6f"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_quiz.xml",
+      "bytes": 812,
+      "sha256": "0c063ffe11b395d3e5cc749100fd60d86d6000682dae3b27cd08ba106fd5ac02"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_admin_questions.xml",
+      "bytes": 2718,
+      "sha256": "3dec0ba05f6fd2befef66bf1ed4871a22a04868697723752764e0ce387bedff0"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_dashboard.xml",
+      "bytes": 5216,
+      "sha256": "792b0741596b611c961dc732b2dfea74b104b7e38ed1985c214db814cabd8d24"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_login.xml",
+      "bytes": 3596,
+      "sha256": "edaa89f527a1f05ea079995e14edbe18117fe3032ef386291ed867a8d6335fc8"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_profile.xml",
+      "bytes": 3335,
+      "sha256": "bda424b48b260002b390183ef76a17d76adc58946883cb1093d4a38aba19c52a"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_question_editor.xml",
+      "bytes": 4747,
+      "sha256": "cc4c314070d1ba8b6220929f98270be48fe24556ff2a902b068501308510e809"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_quiz.xml",
+      "bytes": 4044,
+      "sha256": "028cc19a6759ece63229a281aeee256ece0e6b18b65079f073e0d3346833ae90"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_quiz_setup.xml",
+      "bytes": 2781,
+      "sha256": "daa54ccaa7b7a39b64c38c3fbdff9ff9eef057b7b70105edfd6c4d6a1014839b"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_result.xml",
+      "bytes": 2683,
+      "sha256": "488860f90223f5a41a2c26e1f7929a1b6b8bed46619a526ac8805a31db2b9659"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_signup.xml",
+      "bytes": 3232,
+      "sha256": "5faf24d461a742d49f02ee0a8f66690318170ad544e68877394ea35c21b6a47f"
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "bytes": 375,
+      "sha256": "6d6c5df0f6915ff7946c080a90ca87798a7e598b57cce166a52e8589c129354a"
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "bytes": 113,
+      "sha256": "c7bd98840393b2eaf44d15166039b874f3cfa3fd6a47e0dc3e4d3faf7c51ba8c"
+    },
+    {
+      "path": "app/src/test/java/com/example/simplequiz/CsvImporterTest.kt",
+      "bytes": 1972,
+      "sha256": "4eb5ad9ca138ba20899c4827838e1369889aaf968ba3d8452a9e39f28d5b348e"
+    },
+    {
+      "path": "app/src/test/java/com/example/simplequiz/PasswordHasherTest.kt",
+      "bytes": 2129,
+      "sha256": "be73f03dbc70c14a46f1b80fc4a543d063abd8ba22f313340aabbd507fef091c"
+    },
+    {
+      "path": "build.gradle.kts",
+      "bytes": 143,
+      "sha256": "d310a9bbfa4881ce633efa1d2192993468793988298f228e2698677a752662c2"
+    },
+    {
+      "path": "docs/BUILD_STATUS.md",
+      "bytes": 2981,
+      "sha256": "6ac58e1ddafff727bb5321a677b6b5c74e41e5441ed4279de90ed734a51a8bc2"
+    },
+    {
+      "path": "docs/Member2_Manual_Test_Checklist.csv",
+      "bytes": 5846,
+      "sha256": "a83ecfcea718d7cc40fbc3bc269eab9e1fec6c86e073419397d4c4da8db71bf3"
+    },
+    {
+      "path": "docs/QUESTION_BANK_NOTES.md",
+      "bytes": 2445,
+      "sha256": "b4871ce43ea24e1656c6fa481993007ff90e19debbae8ea1734df8c5c4c986a0"
+    },
+    {
+      "path": "docs/TEAM_TASKS.md",
+      "bytes": 1792,
+      "sha256": "4117fde9448c64b8c0e0d1c264d92a09f9f661bbfb8523db949a194f72d69e5e"
+    },
+    {
+      "path": "docs/TESTING.md",
+      "bytes": 3579,
+      "sha256": "c2c3c2fe9080ac6d014d2659e5fb32639a26ecfd0560d9cdc5069434f7f822ce"
+    },
+    {
+      "path": "docs/UPLOAD_CHECKLIST.md",
+      "bytes": 1775,
+      "sha256": "b812ae35cba08a2696f5aa53f9f40de6e754526bdc520708498eaa5960e7fe6c"
+    },
+    {
+      "path": "docs/local-check-results.json",
+      "bytes": 1240,
+      "sha256": "15d8efd266e44c8da81b71cbb166c1bb08d7b3e592a11d94e74189a5bca7e2e7"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "bytes": 341,
+      "sha256": "2191f9dbd218e124a3c4394c148e11041882e7ab9dbaf84f7e70b91a3d213b64"
+    },
+    {
+      "path": "gradle.properties",
+      "bytes": 185,
+      "sha256": "6894c4a0b23a07e1f05ad4fa52f25cd7641d87fb25182c0ed1f6b18a4c8afd92"
+    },
+    {
+      "path": "gradlew",
+      "bytes": 1899,
+      "sha256": "74cca23fd6f9b05da2573f50b5ab69e4eae2a337afd469ea5f8a3fef755b6306"
+    },
+    {
+      "path": "gradlew.bat",
+      "bytes": 738,
+      "sha256": "ceee4fc66f1aff071bdcd6652d62f54008c9214c94d7aa3b35773b32d4fe42f1"
+    },
+    {
+      "path": "scripts/prepare-wrapper.ps1",
+      "bytes": 1638,
+      "sha256": "0a886e07babf969550a7bcf4a8031e86fd00ef83d6a522b4d4908107ede6741a"
+    },
+    {
+      "path": "settings.gradle.kts",
+      "bytes": 330,
+      "sha256": "82aed8c36358443ee0da757257709cde87244474352993386884ad280b4f9f90"
+    }
+  ]
+}

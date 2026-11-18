@@ -1,0 +1,21 @@
+{
+  "checks_passed": [
+    "All 13 Android XML files parse.",
+    "All 55 distinct Kotlin view-ID references resolve.",
+    "All Kotlin layout resource references resolve.",
+    "All Kotlin color resource references resolve.",
+    "All 9 Activities resolve; LoginActivity is the sole launcher.",
+    "Bundled CSV has 100 unique question IDs and valid required fields/answers.",
+    "All 16 original Kotlin files, 9 original layouts, colors, and CSV remain byte-identical.",
+    "Workflow YAML parses with push, pull-request, and manual triggers and APK/report outputs.",
+    "Ten JVM test methods are included (execution pending).",
+    "Both sh and bash parse the Unix Gradle launcher.",
+    "Gradle distribution and bootstrap JAR checksums match the retrieved official reference.",
+    "Unix launcher rejects a corrupt cached JAR and corrupt download without invoking Java, including paths with spaces; temporary download is cleaned up."
+  ],
+  "full_android_build": "NOT RUN: required tool downloads blocked by workspace network policy",
+  "jvm_unit_test_execution": "NOT RUN",
+  "android_lint_execution": "NOT RUN",
+  "device_or_emulator": "NOT RUN",
+  "windows_batch_and_powershell_execution": "NOT RUN: Windows runtime unavailable"
+}

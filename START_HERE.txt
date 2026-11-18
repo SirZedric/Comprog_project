@@ -1,0 +1,18 @@
+SIMPLEQUIZ - READY TO UPLOAD
+
+1. Create an empty GitHub repository.
+2. Extract this ZIP.
+3. Open the extracted SimpleQuiz_Ready_To_Upload folder.
+4. Upload ALL its CONTENTS into the repository root, including .github.
+   Do not upload just the ZIP or the enclosing project folder.
+5. Commit the upload.
+6. Open Actions > Build Android APK and wait for a successful run.
+7. Download Artifacts > SimpleQuiz-debug and extract the APK.
+
+The complete source, Android project, and workflow are already assembled.
+No Android Studio project creation or manual file placement is required.
+
+First full build/check result: pending your GitHub Actions run.
+Device demonstration: still needs to be performed.
+
+README.md contains detailed upload, local build, team, and troubleshooting steps.
